@@ -1,31 +1,31 @@
 ; Used by CheckSleepingTreeMon
 
 AsleepTreeMonsNite:
-	dw CATERPIE
-	dw METAPOD
-	dw BUTTERFREE
-	dw WEEDLE
-	dw KAKUNA
-	dw BEEDRILL
-	dw SPEAROW
-	dw EKANS
-	dw EXEGGCUTE
-	dw LEDYBA
-	dw AIPOM
-	dw -1 ; end
+	db CATERPIE
+	db METAPOD
+	db BUTTERFREE
+	db WEEDLE
+	db KAKUNA
+	db BEEDRILL
+	db SPEAROW
+	db EKANS
+	db EXEGGCUTE
+	db LEDYBA
+	db AIPOM
+	db -1 ; end
 
 AsleepTreeMonsDay:
-	dw VENONAT
-	dw HOOTHOOT
-	dw NOCTOWL
-	dw SPINARAK
-	dw HERACROSS
-	dw -1 ; end
+	db VENONAT
+	db HOOTHOOT
+	db NOCTOWL
+	db SPINARAK
+	db HERACROSS
+	db -1 ; end
 
 AsleepTreeMonsMorn:
-	dw VENONAT
-	dw HOOTHOOT
-	dw NOCTOWL
-	dw SPINARAK
-	dw HERACROSS
-	dw -1 ; end
+	db VENONAT
+	db HOOTHOOT
+	db NOCTOWL
+	db SPINARAK
+	db HERACROSS
+	db -1 ; end

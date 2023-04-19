@@ -6378,10 +6378,10 @@ LoadEnemyMon:
 .CheckMagikarpArea:
 ; BUG: Magikarp in Lake of Rage are shorter, not longer (see docs/bugs_and_glitches.md)
 	ld a, [wMapGroup]
-	cp GROUP_LAKE_OF_RAGE
+	cp GROUP_NONE
 	jr z, .Happiness
 	ld a, [wMapNumber]
-	cp MAP_LAKE_OF_RAGE
+	cp MAP_NONE
 	jr z, .Happiness
 ; 40% chance of not flooring
 	call Random
