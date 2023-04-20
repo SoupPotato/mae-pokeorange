@@ -60,3 +60,6 @@ LancesRoom_Blocks:
 
 HallOfFame_Blocks:
 	INCBIN "maps/basegame/HallOfFame.blk"
+	
+ValenciaIsland_Blocks:
+	INCBIN "maps/ValenciaIsland.blk"

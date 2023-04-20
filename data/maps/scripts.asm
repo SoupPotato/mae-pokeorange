@@ -35,6 +35,7 @@ INCLUDE "maps/basegame/HallOfFame.asm"
 
 SECTION "Map Scripts 5", ROMX
 
+INCLUDE "maps/ValenciaIsland.asm"
 
 SECTION "Map Scripts 6", ROMX
 
