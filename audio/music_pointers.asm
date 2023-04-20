@@ -107,4 +107,30 @@ Music:
 	dba Music_SuicuneBattle
 	dba Music_BattleTowerLobby
 	dba Music_MobileCenter
+; orange
+	dba Music_TangeloJungle
+	dba Music_CrystalCave
+	dba Music_MeetJessieJames
+	dba Music_RocketMotto
+	dba Music_PinkanIsland
+	dba Music_ImakuniTheme
+	dba Music_CrossBattle
+	dba Music_TraceyBattle
+	dba Music_MarshadowBattle
+	dba Music_WorldTournamentFinal
+	dba Music_TraceyEncounter
+	dba Music_Route69
+	dba Music_LugiasSong2000_NoIntro
+	dba Music_DrakeBattle
+	dba Music_AscorbiaIsland
+	dba Music_Route62
+	dba Music_OrangeIslandsGymBattle
+	dba Music_OrangeTrainerBattle
+	dba Music_EarlyOrangeRoute
+	dba Music_CrimsonRoute
+	dba Music_StarterOrangeRoute
+	dba Music_CityOrange
+	dba Music_ValenciaTown
+	dba Music_Looker
+; e91a3
 	assert_table_length NUM_MUSIC_SONGS
