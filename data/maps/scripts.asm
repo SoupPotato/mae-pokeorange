@@ -1,36 +1,36 @@
 SECTION "Map Scripts 1", ROMX
 
-INCLUDE "maps/Pokecenter2F.asm"
-INCLUDE "maps/TradeCenter.asm"
-INCLUDE "maps/Colosseum.asm"
-INCLUDE "maps/TimeCapsule.asm"
+INCLUDE "maps/basegame/Pokecenter2F.asm"
+INCLUDE "maps/basegame/TradeCenter.asm"
+INCLUDE "maps/basegame/Colosseum.asm"
+INCLUDE "maps/basegame/TimeCapsule.asm"
 
 
 SECTION "Map Scripts 2", ROMX
 
-INCLUDE "maps/BattleTowerOutside.asm"
-INCLUDE "maps/BattleTower1F.asm"
-INCLUDE "maps/BattleTowerElevator.asm"
-INCLUDE "maps/BattleTowerHallway.asm"
-INCLUDE "maps/BattleTowerBattleRoom.asm"
+INCLUDE "maps/basegame/BattleTowerOutside.asm"
+INCLUDE "maps/basegame/BattleTower1F.asm"
+INCLUDE "maps/basegame/BattleTowerElevator.asm"
+INCLUDE "maps/basegame/BattleTowerHallway.asm"
+INCLUDE "maps/basegame/BattleTowerBattleRoom.asm"
 
 
 SECTION "Map Scripts 3", ROMX
 
-INCLUDE "maps/NewBarkTown.asm"
-INCLUDE "maps/PlayersHouse1F.asm"
-INCLUDE "maps/PlayersHouse2F.asm"
+INCLUDE "maps/basegame/NewBarkTown.asm"
+INCLUDE "maps/basegame/PlayersHouse1F.asm"
+INCLUDE "maps/basegame/PlayersHouse2F.asm"
 
 
 SECTION "Map Scripts 4", ROMX
 
-INCLUDE "maps/IndigoPlateauPokecenter1F.asm"
-INCLUDE "maps/WillsRoom.asm"
-INCLUDE "maps/KogasRoom.asm"
-INCLUDE "maps/BrunosRoom.asm"
-INCLUDE "maps/KarensRoom.asm"
-INCLUDE "maps/LancesRoom.asm"
-INCLUDE "maps/HallOfFame.asm"
+INCLUDE "maps/basegame/IndigoPlateauPokecenter1F.asm"
+INCLUDE "maps/basegame/WillsRoom.asm"
+INCLUDE "maps/basegame/KogasRoom.asm"
+INCLUDE "maps/basegame/BrunosRoom.asm"
+INCLUDE "maps/basegame/KarensRoom.asm"
+INCLUDE "maps/basegame/LancesRoom.asm"
+INCLUDE "maps/basegame/HallOfFame.asm"
 
 
 SECTION "Map Scripts 5", ROMX
