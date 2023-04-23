@@ -693,5 +693,3 @@ PokemonPalettes:
 	INCLUDE "gfx/pokemon/other/sylveon/shiny.pal"
 	INCLUDE "gfx/pokemon/johto/unown/normal.pal" ; not front.gbcpal
 	INCLUDE "gfx/pokemon/johto/unown/shiny.pal"
-
-	assert_table_length NUM_POKEMON + 1

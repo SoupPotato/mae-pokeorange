@@ -2,7 +2,6 @@ SECTION "Other Evolutions and Attacks", ROMX
 
 OtherEvosAttacksPointers::
 	dw SylveonEvosAttacks
-	dw UnownEvosAttacks
 .IndirectEnd::
 
 SylveonEvosAttacks:
@@ -22,9 +21,4 @@ SylveonEvosAttacks:
 ;	dbw 37, MOONBLAST
 	dbw 41, LAST_RESORT
 	dbw 45, PSYCH_UP
-	db 0 ; no more level-up moves
-
-UnownEvosAttacks:
-	db 0 ; no more evolutions
-;	dbw 1, HIDDEN_POWER
 	db 0 ; no more level-up moves

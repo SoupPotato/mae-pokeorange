@@ -1,6 +1,6 @@
 SECTION "Johto Idle AnimationIdles", ROMX
 
-JohtoAnimationIdleIdlePointers:
+JohtoAnimationIdlePointers:
 	dw SentretAnimationIdle
 	dw FurretAnimationIdle
 	dw HoothootAnimationIdle
@@ -39,6 +39,7 @@ JohtoAnimationIdleIdlePointers:
 	dw MurkrowAnimationIdle
 	dw SlowkingAnimationIdle
 	dw MisdreavusAnimationIdle
+	dw UnownAnimationIdle
 	dw WobbuffetAnimationIdle
 	dw GirafarigAnimationIdle
 	dw PinecoAnimationIdle
@@ -123,6 +124,7 @@ UmbreonAnimationIdle:    INCLUDE "gfx/pokemon/johto/umbreon/anim_idle.asm"
 MurkrowAnimationIdle:    INCLUDE "gfx/pokemon/johto/murkrow/anim_idle.asm"
 SlowkingAnimationIdle:   INCLUDE "gfx/pokemon/johto/slowking/anim_idle.asm"
 MisdreavusAnimationIdle: INCLUDE "gfx/pokemon/johto/misdreavus/anim_idle.asm"
+UnownAnimationIdle:      INCLUDE "gfx/pokemon/johto/unown/anim_idle.asm"
 WobbuffetAnimationIdle:  INCLUDE "gfx/pokemon/johto/wobbuffet/anim_idle.asm"
 GirafarigAnimationIdle:  INCLUDE "gfx/pokemon/johto/girafarig/anim_idle.asm"
 PinecoAnimationIdle:     INCLUDE "gfx/pokemon/johto/pineco/anim_idle.asm"

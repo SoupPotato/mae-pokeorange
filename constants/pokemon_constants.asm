@@ -209,6 +209,7 @@ JOHTO_POKEMON EQU const_value
 	const MURKROW    ; c6
 	const SLOWKING   ; c7
 	const MISDREAVUS ; c8
+	const UNOWN      ; c9
 	const WOBBUFFET  ; ca
 	const GIRAFARIG  ; cb
 	const PINECO     ; cc
@@ -355,7 +356,6 @@ JOHTO_POKEMON EQU const_value
 	const MANAPHY
 ;SECRET_POKEMON EQU const_value
 	const SYLVEON
-	const UNOWN
 	; const AEGISLASH
 	; const ANNIHILAPE
 	; const APPLETUN

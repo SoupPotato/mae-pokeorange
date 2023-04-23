@@ -24,7 +24,7 @@ AlphabeticalPokedexOrder:
 	dw BANETTE
 	dw BEEDRILL
 	dw BELLSPROUT
-	dw BELOSSOM
+	dw BELLOSSOM
 ;	dw BISHARP
 	dw BLASTOISE
 	dw BLISSEY
@@ -95,7 +95,7 @@ AlphabeticalPokedexOrder:
 	dw FEAROW
 	dw FEEBAS
 	dw FINNEON
-	dw FLAAFY
+	dw FLAAFFY
 ;	dw FLAPPLE
 	dw FLAREON
 	dw FLYGON

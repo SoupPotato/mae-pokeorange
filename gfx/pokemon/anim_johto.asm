@@ -39,6 +39,7 @@ JohtoAnimationPointers:
 	dw MurkrowAnimation
 	dw SlowkingAnimation
 	dw MisdreavusAnimation
+	dw UnownAnimation
 	dw WobbuffetAnimation
 	dw GirafarigAnimation
 	dw PinecoAnimation
@@ -123,6 +124,7 @@ UmbreonAnimation:    INCLUDE "gfx/pokemon/johto/umbreon/anim.asm"
 MurkrowAnimation:    INCLUDE "gfx/pokemon/johto/murkrow/anim.asm"
 SlowkingAnimation:   INCLUDE "gfx/pokemon/johto/slowking/anim.asm"
 MisdreavusAnimation: INCLUDE "gfx/pokemon/johto/misdreavus/anim.asm"
+UnownAnimation:      INCLUDE "gfx/pokemon/johto/unown/anim.asm"
 WobbuffetAnimation:  INCLUDE "gfx/pokemon/johto/wobbuffet/anim.asm"
 GirafarigAnimation:  INCLUDE "gfx/pokemon/johto/girafarig/anim.asm"
 PinecoAnimation:     INCLUDE "gfx/pokemon/johto/pineco/anim.asm"

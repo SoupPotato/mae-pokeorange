@@ -39,6 +39,7 @@ JohtoEvosAttacksPointers::
 	dw MurkrowEvosAttacks
 	dw SlowkingEvosAttacks
 	dw MisdreavusEvosAttacks
+	dw UnownEvosAttacks
 	dw WobbuffetEvosAttacks
 	dw GirafarigEvosAttacks
 	dw PinecoEvosAttacks
@@ -574,6 +575,11 @@ MisdreavusEvosAttacks:
 	dbw 27, PSYBEAM
 	dbw 36, PAIN_SPLIT
 	dbw 46, PERISH_SONG
+	db 0 ; no more level-up moves
+
+UnownEvosAttacks:
+	db 0 ; no more evolutions
+;	dbw 1, HIDDEN_POWER
 	db 0 ; no more level-up moves
 
 WobbuffetEvosAttacks:
