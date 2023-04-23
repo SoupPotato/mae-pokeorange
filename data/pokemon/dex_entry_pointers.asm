@@ -273,7 +273,6 @@ PokedexDataPointerTable:
 	dba AltariaPokedexEntry
 	dba FeebasPokedexEntry
 	dba MiloticPokedexEntry
-	dba CastformPokedexEntry
 	dba KecleonPokedexEntry
 	dba ShuppetPokedexEntry
 	dba BanettePokedexEntry
@@ -281,7 +280,6 @@ PokedexDataPointerTable:
 	dba DusclopsPokedexEntry
 	dba TropiusPokedexEntry
 	dba ChimechoPokedexEntry
-	dba AbsolPokedexEntry
 	dba WynautPokedexEntry
 	dba SnoruntPokedexEntry
 	dba GlaliePokedexEntry

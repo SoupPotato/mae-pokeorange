@@ -59,7 +59,7 @@ AlphabeticalPokedexOrder:
 	dw CROAGUNK
 	dw CROBAT
 	dw CUBONE
-	dw CURSOLA
+;	dw CURSOLA
 ;	dw CUTIEFLY
 	dw DEWGONG
 ;	dw DHELMISE
@@ -90,7 +90,7 @@ AlphabeticalPokedexOrder:
 	dw ESPEON
 	dw EXEGGCUTE
 	dw EXEGGUTOR
-	dw FARFETCH'D
+	dw FARFETCH_D
 ;	dw FARIGIRAF
 	dw FEAROW
 	dw FEEBAS
@@ -338,7 +338,7 @@ AlphabeticalPokedexOrder:
 	dw STARYU
 	dw STEELIX
 ;	dw STEENEE
-	dw STUNFISK
+;	dw STUNFISK
 	dw SUDOWOODO
 	dw SUICUNE
 	dw SUNFLORA
