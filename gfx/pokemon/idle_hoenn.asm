@@ -1,6 +1,6 @@
 SECTION "Hoenn Idle AnimationIdles", ROMX
 
-HoennAnimationIdleIdlePointers:
+HoennAnimationIdlePointers:
 	dw ZigzagoonAnimationIdle
 	dw LinooneAnimationIdle
 	dw WingullAnimationIdle

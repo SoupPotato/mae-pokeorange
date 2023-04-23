@@ -21,13 +21,12 @@ SinnohEvosAttacksPointers::
 	dw MunchlaxEvosAttacks
 	dw RioluEvosAttacks
 	dw LucarioEvosAttacks
+	dw CroagunkEvosAttacks
 	dw ToxicroakEvosAttacks
 	dw CarnivineEvosAttacks
 	dw FinneonEvosAttacks
 	dw LumineonEvosAttacks
 	dw MantykeEvosAttacks
-	dw SnoverEvosAttacks
-	dw AbomasnowEvosAttacks
 	dw WeavileEvosAttacks
 	dw MagnezoneEvosAttacks
 	dw LickilickyEvosAttacks

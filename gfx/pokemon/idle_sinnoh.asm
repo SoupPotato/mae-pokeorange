@@ -1,6 +1,6 @@
 SECTION "Sinnoh Idle AnimationIdles", ROMX
 
-SinnohAnimationIdleIdlePointers:
+SinnohAnimationIdlePointers:
 	dw ShinxAnimationIdle
 	dw LuxioAnimationIdle
 	dw LuxrayAnimationIdle
