@@ -677,7 +677,6 @@ PokemonPicPointers::
 	dba ManaphyBackpic
 	dba SylveonFrontpic
 	dba SylveonBackpic
-	dba SylveonBackpic
 	
 	; Unown pics have their own table. See UnownPicPointers
 	dbw -1, -1
