@@ -100,5 +100,4 @@ INCLUDE "data/pokemon/base_stats/sinnoh/phione.asm"
 INCLUDE "data/pokemon/base_stats/sinnoh/manaphy.asm"
 ;SECRET
 INCLUDE "data/pokemon/base_stats/other/sylveon.asm"
-INCLUDE "data/pokemon/base_stats/johto/unown.asm"
 .IndirectEnd::
