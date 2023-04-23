@@ -85,7 +85,7 @@ Pokered_MonIndices:
 	db NINETALES
 	db PIKACHU
 	db RAICHU
-	db DELIBIRD ; MISSINGNO.
+	db MANTINE ; MISSINGNO.
 	db MANTINE ; MISSINGNO.
 	db DRATINI
 	db DRAGONAIR
@@ -191,15 +191,6 @@ Pokered_MonIndices:
 	db WEEPINBELL
 	db VICTREEBEL
 	assert_table_length 190 ; gen 1 mon indexes
-	db CHIKORITA
-	db BAYLEEF
-	db MEGANIUM
-	db CYNDAQUIL
-	db QUILAVA
-	db TYPHLOSION
-	db TOTODILE
-	db CROCONAW
-	db FERALIGATR
 	db SENTRET
 	db FURRET
 	db HOOTHOOT
@@ -216,8 +207,6 @@ Pokered_MonIndices:
 	db IGGLYBUFF
 	db TOGEPI
 	db TOGETIC
-	db NATU
-	db XATU
 	db MAREEP
 	db FLAAFFY
 	db AMPHAROS
@@ -240,7 +229,6 @@ Pokered_MonIndices:
 	db MURKROW
 	db SLOWKING
 	db MISDREAVUS
-	db UNOWN
 	db WOBBUFFET
 	db GIRAFARIG
 	db PINECO
@@ -248,9 +236,21 @@ Pokered_MonIndices:
 	db DUNSPARCE
 	db GLIGAR
 	db STEELIX
-	db SNUBBULL
-	db GRANBULL
 	db QWILFISH
+	db WOBBUFFET
+	db WOBBUFFET
+	db WOBBUFFET
+	db WOBBUFFET
+	db WOBBUFFET
+	db WOBBUFFET
+	db WOBBUFFET
+	db WOBBUFFET
+	db WOBBUFFET
+	db WOBBUFFET
+	db WOBBUFFET
+	db WOBBUFFET
+	db WOBBUFFET
+	db WOBBUFFET
 	db WOBBUFFET
 	db WOBBUFFET
 	assert_table_length 252
