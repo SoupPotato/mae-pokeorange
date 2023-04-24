@@ -650,7 +650,7 @@ OakSpeech:
 	call RotateFourPalettesLeft
 	call ClearTilemap
 
-	ld de, MUSIC_ROUTE_30
+	ld de, MUSIC_ROUTE_24_GBS
 	call PlayMusic
 
 	call RotateFourPalettesRight
@@ -671,7 +671,7 @@ if !DEF(_DEBUG)
 	call RotateThreePalettesRight
 	call ClearTilemap
 
-	ld hl, WOOPER
+	ld hl, WOBBUFFET
 	call GetPokemonIDFromIndex
 	ld [wCurSpecies], a
 	ld [wCurPartySpecies], a
@@ -733,7 +733,7 @@ OakText1:
 OakText2:
 	text_far _OakText2
 	text_asm
-	ld hl, WOOPER
+	ld hl, CELEBI
 	call GetPokemonIDFromIndex
 	call PlayMonCry
 	call WaitSFX
@@ -801,9 +801,9 @@ NamePlayer:
 	ret
 
 .Chris:
-	db "CHRIS@@@@@@"
+	db "INDIGO@@@@@"
 .Kris:
-	db "KRIS@@@@@@@"
+	db "ORANGE@@@@@"
 
 GSShowPlayerNamingChoices: ; unreferenced
 	call LoadMenuHeader
