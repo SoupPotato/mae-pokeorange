@@ -46,7 +46,68 @@ SinnohEggMovePointers::
 	dw SinnohNoEggMoves
 	dw SinnohNoEggMoves
 	dw SinnohNoEggMoves
-
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
+	dw SinnohNoEggMoves
 .IndirectEnd::
 
 SinnohNoEggMoves:

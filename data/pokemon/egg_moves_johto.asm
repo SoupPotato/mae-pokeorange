@@ -1,6 +1,15 @@
 SECTION "Johto Egg Moves", ROMX
 
 JohtoEggMovePointers::
+	dw ChikoritaEggMoves
+	dw JohtoNoEggMoves
+	dw JohtoNoEggMoves
+	dw CyndaquilEggMoves
+	dw JohtoNoEggMoves
+	dw JohtoNoEggMoves
+	dw TotodileEggMoves
+	dw JohtoNoEggMoves
+	dw JohtoNoEggMoves
 	dw SentretEggMoves
 	dw JohtoNoEggMoves
 	dw HoothootEggMoves
@@ -16,6 +25,8 @@ JohtoEggMovePointers::
 	dw CleffaEggMoves
 	dw IgglybuffEggMoves
 	dw TogepiEggMoves
+	dw JohtoNoEggMoves
+	dw NatuEggMoves
 	dw JohtoNoEggMoves
 	dw MareepEggMoves
 	dw JohtoNoEggMoves
@@ -40,11 +51,14 @@ JohtoEggMovePointers::
 	dw JohtoNoEggMoves
 	dw MisdreavusEggMoves
 	dw JohtoNoEggMoves
+	dw JohtoNoEggMoves
 	dw GirafarigEggMoves
 	dw PinecoEggMoves
 	dw JohtoNoEggMoves
 	dw DunsparceEggMoves
 	dw GligarEggMoves
+	dw JohtoNoEggMoves
+	dw SnubbullEggMoves
 	dw JohtoNoEggMoves
 	dw QwilfishEggMoves
 	dw JohtoNoEggMoves
@@ -55,9 +69,12 @@ JohtoEggMovePointers::
 	dw JohtoNoEggMoves
 	dw SlugmaEggMoves
 	dw JohtoNoEggMoves
+	dw SwinubEggMoves
+	dw JohtoNoEggMoves
 	dw CorsolaEggMoves
 	dw RemoraidEggMoves
 	dw JohtoNoEggMoves
+	dw DelibirdEggMoves
 	dw MantineEggMoves
 	dw SkarmoryEggMoves
 	dw HoundourEggMoves
@@ -67,6 +84,7 @@ JohtoEggMovePointers::
 	dw JohtoNoEggMoves
 	dw JohtoNoEggMoves
 	dw StantlerEggMoves
+	dw JohtoNoEggMoves
 	dw TyrogueEggMoves
 	dw JohtoNoEggMoves
 	dw SmoochumEggMoves
@@ -84,6 +102,33 @@ JohtoEggMovePointers::
 	dw JohtoNoEggMoves
 	dw JohtoNoEggMoves
 .IndirectEnd::
+
+ChikoritaEggMoves:
+	dw VINE_WHIP
+	dw LEECH_SEED
+	dw COUNTER
+	dw ANCIENTPOWER
+	dw FLAIL
+	dw SWORDS_DANCE
+	dw -1 ; end
+
+CyndaquilEggMoves:
+	dw FURY_SWIPES
+	dw QUICK_ATTACK
+	dw REVERSAL
+	dw THRASH
+	dw FORESIGHT
+	dw SUBMISSION
+	dw -1 ; end
+
+TotodileEggMoves:
+	dw CRUNCH
+	dw THRASH
+	dw HYDRO_PUMP
+	dw ANCIENTPOWER
+	dw RAZOR_WIND
+	dw ROCK_SLIDE
+	dw -1 ; end
 
 SentretEggMoves:
 	dw DOUBLE_EDGE
@@ -151,6 +196,14 @@ TogepiEggMoves:
 	dw PECK
 	dw FORESIGHT
 	dw FUTURE_SIGHT
+	dw -1 ; end
+
+NatuEggMoves:
+	dw HAZE
+	dw DRILL_PECK
+	dw QUICK_ATTACK
+	dw FAINT_ATTACK
+	dw STEEL_WING
 	dw -1 ; end
 
 MareepEggMoves:
@@ -254,6 +307,17 @@ GligarEggMoves:
 	dw COUNTER
 	dw -1 ; end
 
+SnubbullEggMoves:
+	dw METRONOME
+	dw FAINT_ATTACK
+	dw REFLECT
+	dw PRESENT
+	dw CRUNCH
+	dw HEAL_BELL
+	dw LICK
+	dw LEER
+	dw -1 ; end
+
 QwilfishEggMoves:
 	dw FLAIL
 	dw HAZE
@@ -292,6 +356,14 @@ SlugmaEggMoves:
 	dw ACID_ARMOR
 	dw -1 ; end
 
+SwinubEggMoves:
+	dw TAKE_DOWN
+	dw BITE
+	dw BODY_SLAM
+	dw ROCK_SLIDE
+	dw ANCIENTPOWER
+	dw -1 ; end
+
 CorsolaEggMoves:
 	dw ROCK_SLIDE
 	dw SAFEGUARD
@@ -306,6 +378,14 @@ RemoraidEggMoves:
 	dw SUPERSONIC
 	dw HAZE
 	dw SCREECH
+	dw -1 ; end
+
+DelibirdEggMoves:
+	dw AURORA_BEAM
+	dw QUICK_ATTACK
+	dw FUTURE_SIGHT
+	dw SPLASH
+	dw RAPID_SPIN
 	dw -1 ; end
 
 MantineEggMoves:
